@@ -16,8 +16,7 @@ modalCloseButton | boolean to decide if the cross icon of the modal should be sh
 
 ### Bacic Code
 
-```
-import "./styles.css";
+```javascript
 import React, { useState } from "react";
 import Modal from "react-modal-hooks-styled-component";
 
