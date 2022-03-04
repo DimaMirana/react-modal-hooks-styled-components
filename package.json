@@ -1,0 +1,35 @@
+{
+  "name": "styled-modal-hooks",
+  "version": "1.0.0",
+  "description": "react modal using styled component and hooks",
+  "main": "./index.js",
+  "peerDependencies": {
+    "react": "^17.0.0"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dimamirana",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "hooks",
+    "styled-components",
+    "customized-modal"
+  ],
+  "dependencies": {
+    "react": "^17.0.2",
+    "webpack": "^5.69.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.3",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
