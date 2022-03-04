@@ -1,4 +1,5 @@
 # react-modal-hooks-styled-components
+A simple Modal that can be closed by clicking outside and esc button as well as the cross button inside the modal. This component is made by using styled component and react hooks.
 
 [Basic Demo](https://codesandbox.io/s/simple-skeleton-modal-ly96ts?file=/src/App.js)
 [Modified Demo](https://codesandbox.io/s/modified-modal-ktl6kw)
